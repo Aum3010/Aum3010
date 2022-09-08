@@ -27,7 +27,7 @@
 
 --- 
 
-## I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India <img src="https://knowindia.india.gov.in/assets/images/national_flag_inner.jpg" width="25">
+## I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India <img src="https://knowindia.india.gov.in/assets/images/national_flag_inner.jpg" width="30">
 
 ### My repositories showcase the projects built while learning and understanding the technologies/frameworks/languages as well as some of my own working projects.
 
