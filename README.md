@@ -1,18 +1,23 @@
 <h1 align="center" font-family: "Helvetica, sans-serif">
-  Hello! This is Aum Pandya 
+  Hello! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 <div id="header" align="center">
-  <img src="https://wallpaperaccess.com/full/1102037.jpg" width="700"/>
+  <img src="https://pbs.twimg.com/profile_banners/826342527443668992/1650907271/1500x500" width="900"/>
 </div>
 
+---
 
-<!-- ### - 📫 How to reach me: 
- -->
-<div id="badges" align="center">
-  <h3> 📫 Reach me at</h3>
+ <div align="center">
+   <h3> 📫 Reach me at</h3>
+
+ <a href="https://aumpandya.bio.link/">
+      <img src="https://cdn.bio.link/uploads/profile_pictures/2022-02-16/71zJ05CpqRBKWmQ2mzqv1TlmQQWMgmad.png" width="50" height="50" alt="Bio Link"/>
+  </a>
+ </div>
+<div id="badges" align="center">  
   <a href="https://www.linkedin.com/in/aum-pandya-8381081b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
