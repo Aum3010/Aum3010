@@ -37,7 +37,6 @@
 
 - 🔭 I’m currently working on React , NextJs , NodeJs and Tailwind CSS
 - 🌱 I’m currently learning Design ,Working with Apis, Fundamentals of Backend, Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source projects
 - :rocket: Open for opportunities 
 
 ---
@@ -59,11 +58,14 @@
 
 ---
 
-### :writing_hand: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aum3010)](https://git.io/streak-stats)
+## :writing_hand: My Stats :
+[![Aum's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aum3010&theme=synthwave-84)](https://github.com/Aum3010/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aum3010&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aum3010&layout=compact&theme=vision-friendly-dark)](https://github.com/Aum3010/github-readme-stats)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aum3010&layout=compact&theme=vision-friendly-light)](https://github.com/Aum3010/github-readme-stats)
 
 
 
