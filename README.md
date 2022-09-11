@@ -60,7 +60,7 @@
 ---
 
 ### :writing_hand: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aum3010&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aum30101&theme=light)](https://git.io/streak-stats)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aum3010&layout=compact&theme=vision-friendly-dark)](https://github.com/Aum3010/github-readme-stats)
