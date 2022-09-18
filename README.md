@@ -12,9 +12,8 @@
 
  <div align="center">
    <h3> 📫 Reach me at</h3>
-
- <a href="https://aumpandya.bio.link/">
-      <img src="https://cdn.bio.link/uploads/profile_pictures/2022-02-16/71zJ05CpqRBKWmQ2mzqv1TlmQQWMgmad.png" width="50" height="50" alt="Bio Link"/>
+ <a align = "center" href="https://aumpandya.bio.link/">
+      <img src="https://cdn.bio.link/uploads/profile_pictures/2022-02-16/71zJ05CpqRBKWmQ2mzqv1TlmQQWMgmad.png" width="60" height="60" alt="Bio Link"/>
   </a>
  </div>
 <div id="badges" align="center">  
@@ -41,7 +40,7 @@
 ---
 
 - 🔭 I’m currently working on React , NextJs , NodeJs and Tailwind CSS
-- 🌱 I’m currently learning Design ,Working with Apis, Fundamentals of Backend, Data Structures and Algorithms
+- 🌱 I’m currently learning Design ,Working with Apis, Fundamentals of Web Backend, Data Structures and Algorithms
 - :rocket: Open for opportunities 
 
 ---
