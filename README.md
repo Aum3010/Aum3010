@@ -1,4 +1,4 @@
-<h1 align="center" font-family: "Helvetica, sans-serif">
+<h1 align="center" font-family: "Times New Roman, sans-serif">
   Hello! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -11,7 +11,7 @@
 ---
 
  <div align="center">
-   <h3> 📫 Reach me at</h3>
+   <h3 font-family: "Times New Roman, sans-serif"> 📫 Reach me at</h3>
  <a align = "center" href="https://aumpandya.bio.link/">
       <img src="https://cdn.bio.link/uploads/profile_pictures/2022-02-16/71zJ05CpqRBKWmQ2mzqv1TlmQQWMgmad.png" width="60" height="60" alt="Bio Link"/>
   </a>
