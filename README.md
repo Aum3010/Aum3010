@@ -67,8 +67,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aum3010&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aum3010&layout=compact&theme=vision-friendly-dark)](https://github.com/Aum3010/github-readme-stats)
-
  
 
 
