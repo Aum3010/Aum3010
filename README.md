@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_banners/826342527443668992/1650907271/1500x500" width="900"/>
+  <img src="https://pbs.twimg.com/profile_banners/826342527443668992/1650907271/1500x500" width="1000"/>
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 - 🔭 I’m currently working on React , NextJs , NodeJs and Tailwind CSS
-- 🌱 I’m currently learning Design ,Working with Apis, Fundamentals of Web Backend, Data Structures and Algorithms
+- 🌱 I’m currently learning Design ,Working with Apis, Understanding the basics of Web Backend, Data Structures and Algorithms
 - :rocket: Open for opportunities 
 
 ---
